@@ -1,5 +1,8 @@
-## Stimulant Use Interventions may increase for YBMSM
-Code for published _IJDP_ [paper](https://www.sciencedirect.com/science/article/pii/S0955395922000482)
+# Codebase: Stimulant use interventions may strengthen ‘GettingtoZero’ HIV
+elimination initiatives in Illinois
+
+## Publication
+[International Journal of Drug Policy](https://www.sciencedirect.com/science/article/pii/S0955395922000482)
 
 ## Code Attribution
 * Daniel Sheeler
